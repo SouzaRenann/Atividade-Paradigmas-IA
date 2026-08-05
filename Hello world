@@ -1,0 +1,13 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+
+//usando a versão net 6 ou superior podemos simplificar mais 
+
+Console.WriteLine("Hello, World!");
